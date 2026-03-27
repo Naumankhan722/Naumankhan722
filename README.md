@@ -18,32 +18,32 @@
 ## 🎨 Tech Stack
 
 ### Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,materialui,sass" alt="Frontend" />
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,redux,jest" alt="Backend" />
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
 </p>
 
 ### DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws" alt="DevOps" />
 </p>
 
 ### Operating Systems
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu" alt="Operating Systems" />
 </p>
 
 ### Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" alt="Tools" />
 </p>
 
