@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&color=FF0000%C2%A2er=true&vCenter=true&width=600&height=50&lines=Hey+there!+I%27m+Nauman+Pathan;Full+Stack+MEAN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&color=FF0000%C2%A2er=true&vCenter=true&width=600&height=50&lines=Hey+there!+I%27m+Nauman+Pathan;Full+Stack+MERN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
 </p>
 
 <!-- Cool Divider -->
@@ -61,23 +61,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naumankhan722&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naumankhan722&theme=radical&no-frame=true&column=6">
-</p>
-
-
----
-
 
 ---
 
 ## 🌟 Fun Facts
 🎮 **Tech explorer & open-source contributor**
 🎶 **Loves music & experimenting with AI**
-🍕 **Pizza over everything!**
+🍕 **Biryaani over everything!**
 
 ---
 
