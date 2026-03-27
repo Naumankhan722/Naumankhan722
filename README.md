@@ -61,6 +61,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naumankhan722&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naumankhan-pathan-31976b203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nauman-pathan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:naumanpathan722@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
